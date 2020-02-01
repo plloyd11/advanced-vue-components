@@ -13,7 +13,7 @@
       </div>
     </div>
     <div class="text-right">
-      <button type="button" class="btn btn-blue">Update Settings</button>
+      <button type="submit" class="btn btn-blue">Update Settings</button>
     </div>
   </form>
 </template>
